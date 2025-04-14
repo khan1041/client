@@ -13,8 +13,7 @@
     "gh-pages": "^6.2.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-use-cart": "^1.14.0",
-    "redux-devtools-extension": "^2.13.9"
+    "react-use-cart": "^1.14.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.11.1",
